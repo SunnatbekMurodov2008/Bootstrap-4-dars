@@ -1,0 +1,38 @@
+.box{
+    margin-top: 150px;
+    margin-left: 200px;
+    width: 1100px;
+    height: 800px;
+    background: linear-gradient(120deg,#2a9ffc, #2fe9c0);
+    border-radius: 10px;
+}
+.box strong{
+    position: absolute;
+    font-size: 55px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.box p{
+    font-size: 20px;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 200px;
+}
+.btn1{
+    background-color: transparent;
+    border-radius: 0;
+    border: 2px solid white;
+    margin-top: 480px;
+    margin-left:450px;
+}
+.btn2{
+    border-radius: 0;
+    margin-left: 650px;
+    margin-top: -60px;
+}
+body strong{
+    position: absolute;
+    font-size: 30px;
+    margin-left: 500px;
+    margin-top: -130px;
+}
